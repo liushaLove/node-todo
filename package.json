@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "bin": {
-    "t": "cli.js"
+    "task": "cli.js"
   },
   "files": [
     "*.js"
